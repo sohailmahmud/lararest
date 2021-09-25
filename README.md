@@ -1,4 +1,4 @@
-# Laravel Rest API Generator
+# Laravel Simple Rest API Generator
 
 An API Boilerplate to create a ready-to-use REST API in seconds with Laravel 8.x
 
